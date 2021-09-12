@@ -1,2 +1,2 @@
-# larareact-core
-larareact-core
+# larea-core
+larea-core

@@ -1,0 +1,23 @@
+{
+    "name": "larareact/larareact-core",
+    "description": "LaraReact Core",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Larareact\\LarareactCore\\": "src/",
+            "Larareact\\LarareactCore\\Database\\Factories\\": "database/factories/",
+            "Larareact\\LarareactCore\\Database\\Seeders\\": "database/seeders/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Youssef BADDI",
+            "email": "baddi.youssef@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.0"
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
